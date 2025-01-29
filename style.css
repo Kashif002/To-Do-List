@@ -152,3 +152,9 @@ button {
         width: 80vw; /* Adjust width for smaller screens */
     }
 }
+
+@media (max-width: 400px) {
+    .container {
+        width: 80vw; /* Adjust width for smaller screens */
+    }
+}
